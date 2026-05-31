@@ -28,6 +28,6 @@
 
 # Contribution Graph 👀
 
-<img alt="GitHub Activity Graph" width="98.3%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lucianaib0318&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=LucianaiB2004&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
+<img alt="GitHub Activity Graph" width="98.3%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LucianaiB2004&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=LucianaiB2004&amp;bg_color=2e292e&amp;color=f5008f&amp;line=4c9e74&amp;point=096390&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" style="max-width: 100%;">
