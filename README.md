@@ -8,19 +8,32 @@
 
 # Contact 🌐
 
-🌍 GeoMind：[🌍GeoMind](https://github.com/lucianaib0318/GeoMind)，基于飞书 CLI + 腾讯位置的科研与产业地理情报可视化 Skill
 
-🔥 中国热榜聚合器：[🔥 中国热榜聚合器](https://github.com/lucianaib0318/china-hot-ranks)，支持 35 个平台 的热榜抓取
+📱 通义千问文档助手【手机应用】：[📱 DocPilot Qwen](https://github.com/LucianaiB2004/DocPilot-Qwen)，面向 Android 的 AI 文档助手，支持文档解析、Qwen 问答、摘要生成与模板抽取
 
-✨ 微信公众号发布助手：[✨ 微信公众号发布助手](https://github.com/lucianaib0318/wechat-publisher/blob/main/README_CN.md)，Markdown 一键转微信公众号草稿，直达草稿箱
+🌍 科研与产业地理情报图谱【skill】：[🌍 GeoMind](https://github.com/LucianaiB2004/GeoMind)，基于飞书 CLI + 腾讯位置服务的科研与产业地理情报可视化 Skill
 
-微信公众号选题助手：[微信公众号选题助手](https://github.com/lucianaib0318/wechat-topic-selector)，基于热榜内容拆解 + 用户方向匹配，智能生成爆款选题
+🔥 中国热榜聚合器【skill】：[🔥 中国热榜聚合器](https://github.com/LucianaiB2004/China-Hot-Ranks)，支持微博、知乎、抖音、B站、CSDN、掘金等 35 个平台的热榜抓取
 
-掘金自动化签到脚本：[掘金自动化签到脚本](https://github.com/lucianaib0318/juejin-checkin)，掘金自动化签到 - 每日自动签到 + 免费抽奖
+✨ 微信公众号发布助手【skill】：[✨ WeChat Publisher](https://github.com/LucianaiB2004/Wechat-Publisher)，Markdown 一键转换并发布至微信公众号草稿箱
 
-📕 小红书爆款文案生成工具：[📕 小红书爆款文案生成工具](https://github.com/lucianaib0318/xiaohongshu-master)，帖子生成 | 热点词库 | 违禁词检测 | 13 种设计风格 | 一键生成专业级笔记素材（内容撰写 + 图片卡片 + 发布）| 支持孟菲斯/酸性/蒸汽波/中国风等主题
+📈 XRD 一图流【skill】：[📈 XRD-SKILL](https://github.com/LucianaiB2004/XRD-SKILL)，将 XRD 原始数据自动生成谱线图，并发布为可继续编辑的飞书画板
 
+🧭 领域侦察专家【skill】：[🧭 DOMAIN-SCOUT-SKILL](https://github.com/LucianaiB2004/DOMAIN-SCOUT-SKILL)，用 60 分钟判断一个新领域是否值得学习，并生成理解地图、验证实验与学习建议
 
+🗺️ 人生经纬【skill】：[🗺️ LifeTrace](https://github.com/LucianaiB2004/life-trace-amap)，基于高德地图展示人物一生的时间、地点、事件、来源与动态人生路线
+
+📚 小说迷图谱【skill】：[📚 Novel Fan Graph](https://github.com/LucianaiB2004/novel-fan-graph)，将小说转化为人物关系、场景地图、势力图谱和事件时间线，并支持按章节控制剧透
+
+🎮 私有安全 AI Agent 【Agent】：[🎮 Radeon Hackathon 2026](https://github.com/LucianaiB2004/Radeon-hackathon-2026-07)，AMD Radeon GPU 黑客松的云端使用指南、赛道示例与作品提交仓库
+
+🔬 材料证据追踪【skill】：[🔬 MatTrace](https://github.com/LucianaiB2004/mattrace)，从论文、专利和技术数据表中抽取带原文、页码、测试条件与可信度的材料数据
+
+🧪 MatTrace 在线演示【Agent】：[🧪 MatTrace Demo](https://github.com/LucianaiB2004/mattrace-demo)，支持上传科研文献、运行材料证据分析，并导出 JSON、CSV 与 Markdown 报告
+
+🎬 微信聊天反转视频【skill】：[🎬 Making WeChat Chat Videos](https://github.com/LucianaiB2004/making-wechat-chat-videos)，覆盖反转剧本、微信聊天素材、Suno 对唱歌曲、音画同步与情绪特效成片的完整工作流
+
+🕵️ AI 打假侦探【skill】：[🕵️ AI Truth Detective](https://github.com/LucianaiB2004/ai-truth-detective)，调用腾讯云 AI 能力检测图片、文本和视频是否由 AI 生成，并输出结构化验真报告
 
 # GitHub Stats 📊
 
