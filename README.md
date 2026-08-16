@@ -1,10 +1,10 @@
 
 # Hi there, I'm LucianaiB 👋
 
-- 👀 I'm interested in **Python**
-- 🌱 I'm currently learning **Programming**
-- 💞️ I'm looking to collaborate on **Programming**
-- 📫 How to reach me: [LucianaiB0318@163.com](mailto:LucianaiB0318@163.com)
+- 👀 我对 **AI Skill 和 MCP** 感兴趣
+- 🌱 我目前正在学习 **Agent**
+- 💞️ 我希望能在 **编程相关项目** 上与他人合作
+- 📫 联系方式：[LucianaiB0318@163.com](mailto:LucianaiB0318@163.com)
 
 # Contact 🌐
 
