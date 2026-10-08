@@ -1,12 +1,14 @@
-
 # Hi there, I'm LucianaiB 👋
 
-- 👀 我对 **AI Skill 和 MCP** 感兴趣
-- 🌱 我目前正在学习 **Agent**
-- 💞️ 我希望能在 **编程相关项目** 上与他人合作
-- 📫 联系方式：[LucianaiB0318@163.com](mailto:LucianaiB0318@163.com)
+**LucianaiB 是一名专注于 AI 应用落地与 AI App 设计开发的开发者和技术博主。** 我把大模型能力做成真正能用的应用、App 和 Agent Skill。
 
-# Contact 🌐
+- 🌐 个人主页：**[lucianaib.is-a.dev](https://lucianaib.is-a.dev)**
+- 📈 全网文章阅读 958 万+，MCP 累计调用 1,193 万+，Skill 累计下载 1,223（数据截至 2026-08-23）
+- 🏅 腾讯云 TDP、阿里云开发者社区专家博主、CSDN 优质创作者
+- 🧭 方向：AI 应用落地、AI App（Android / HarmonyOS）、Agent / Skill / MCP
+- 💬 交流合作：微信 `LucianaiB20040318`，邮箱 [LucianaiB0318@163.com](mailto:LucianaiB0318@163.com)
+
+# 代表作品 🌐
 
 
 📱 通义千问文档助手【手机应用】：[📱 DocPilot Qwen](https://github.com/LucianaiB2004/DocPilot-Qwen)，面向 Android 的 AI 文档助手，支持文档解析、Qwen 问答、摘要生成与模板抽取
