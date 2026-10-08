@@ -2,7 +2,7 @@
 
 **LucianaiB 是一名专注于 AI 应用落地与 AI App 设计开发的开发者和技术博主。** 我把大模型能力做成真正能用的应用、App 和 Agent Skill。
 
-- 🌐 个人主页：**[lucianaib.is-a.dev](https://lucianaib.is-a.dev)**
+- 🌐 个人主页：**[lucianaib2004.github.io](https://lucianaib2004.github.io)**
 - 📈 全网文章阅读 958 万+，MCP 累计调用 1,193 万+，Skill 累计下载 1,223（数据截至 2026-08-23）
 - 🏅 腾讯云 TDP、阿里云开发者社区专家博主、CSDN 优质创作者
 - 🧭 方向：AI 应用落地、AI App（Android / HarmonyOS）、Agent / Skill / MCP
